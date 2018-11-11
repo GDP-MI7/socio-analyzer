@@ -86,7 +86,7 @@ wb = load_workbook(filename='../input_files/MeTooInput.xlsx')
 ws = wb['Sheet1']
 
 
-writeBook = Workbook()
+# writeBook = Workbook()
 # dest_filename = '../output_files/output_book.xlsx'
 # rightSheet = writeBook.create_sheet(title="Sheet")
 op = open("../output_files/analyzer_output.csv","w")
