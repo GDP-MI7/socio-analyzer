@@ -20,8 +20,8 @@ negativeWords = []
 neutralWords = []
 
 def getSentiment(word):
-    word = stemmer.stem(word)
     polarity = sia.polarity_scores(word)['compound']
+    word = stemmer.stem(word)
     if polarity > 0:
         positiveWords.append(word)
     elif polarity < 0:

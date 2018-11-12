@@ -81,9 +81,9 @@ while exit:
 from textblob import TextBlob
 from openpyxl import Workbook
 from openpyxl import load_workbook
-#wb = load_workbook(filename='rt-polaritydata/Manualvalidation_weather.xlsx')
-wb = load_workbook(filename='../input_files/MeTooInput.xlsx')
-ws = wb['Sheet1']
+wb = load_workbook(filename='../input_files/Manualvalidation_weather.xlsx')
+# wb = load_workbook(filename='../input_files/MeTooInput.xlsx')
+ws = wb['Sheet2']
 
 
 # writeBook = Workbook()
@@ -95,9 +95,9 @@ rowNo = 1
 for row in ws.rows:
     #for cell in row:
     # print(row[5].value)
-    month = row[3].value
-    year = str(row[4].value)
-    sentence = row[5].value.lower()
+    # month = row[3].value
+    # year = str(row[4].value)
+    sentence = row[0].value.lower()
     tb = TextBlob(sentence)
     if tb.sentiment.polarity > 0:
         resultTextblob = "Positive"
