@@ -5,6 +5,7 @@
 2. [Requirements](#requirements)
 3. [Steps for execution](#steps-for-execution)
 4. [Contributors](#contributors)
+5. [Notes](#notes)
 
 ## Introduction
 
@@ -40,3 +41,5 @@ In this project we developed a custom analyzer- Socio Analyzer which takes a cle
 - Vipul Chandoor (S530459@nwmissouri.edu)
 - Durga Charan Potukuru (S530748@nwmissouri.edu)
 - Nagateja Seetharama Srinivas Prakash Pakala (S530715@nwmissouri.edu)
+
+## Notes
