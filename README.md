@@ -43,3 +43,5 @@ In this project we developed a custom analyzer- Socio Analyzer which takes a cle
 - Nagateja Seetharama Srinivas Prakash Pakala (S530715@nwmissouri.edu)
 
 ## Notes
+
+Project documents: Project presentation, User manual, Developers manual Project paper are located in documents folder of the repository
