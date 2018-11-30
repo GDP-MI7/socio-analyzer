@@ -1,5 +1,3 @@
-# socio-analyzer
-
 # Socio Analyzer
 -------------
 
