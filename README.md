@@ -44,8 +44,5 @@ In this project we developed a custom analyzer- Socio Analyzer which takes a cle
 
 ## Notes
 
-- Project documents: Navigate to documents folder
-    - Project presentation
-    - User manual
-    - Developers manual 
-    - Project paper
+- Project Presentation and other project related document are in documents folder
+   
