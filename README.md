@@ -3,9 +3,8 @@
 
 1. [Introduction](#introduction)
 2. [Requirements](#requirements)
-3. [Integration](#integration)
-4. [Steps for execution](#steps-for-execution)
-5. [Contributors](#contributors)
+3. [Steps for execution](#steps-for-execution)
+4. [Contributors](#contributors)
 
 ## Introduction
 
