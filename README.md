@@ -44,4 +44,8 @@ In this project we developed a custom analyzer- Socio Analyzer which takes a cle
 
 ## Notes
 
-Project documents: Project presentation, User manual, Developers manual Project paper are located in documents folder of the repository
+- Project documents: Navigate to documents folder
+    - Project presentation
+    - User manual
+    - Developers manual 
+    - Project paper
