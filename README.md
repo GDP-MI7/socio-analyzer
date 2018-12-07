@@ -43,6 +43,9 @@ In this project we developed a custom analyzer- Socio Analyzer which takes a cle
 - Nagateja Seetharama Srinivas Prakash Pakala (S530715@nwmissouri.edu)
 
 ## Notes
-
-- Project Presentation and other project related documents are in documents folder
+- repository navigation:
+    - Documents folder: Project Presentation and other project related documents
+    - Data retrival: Code to retrive stream of tweets
+    - Input file: Testing and training datasets
+    - Custom analyzer, Vectorizer, Sentiment related apis : Scripts of the project 
    
