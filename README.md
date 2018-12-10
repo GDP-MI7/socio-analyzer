@@ -44,7 +44,7 @@ In this project we developed a custom analyzer- Socio Analyzer which takes a cle
 
 ## Notes
 - repository navigation:
-    - Documents folder: Project Presentation and other project related documents
+    - Documents folder: Project Presentation, Developers manual, User manual
     - Data retrival: Code to retrive stream of tweets
     - Input file: Testing and training datasets
     - Custom analyzer, Vectorizer, Sentiment related apis : Scripts of the project 
